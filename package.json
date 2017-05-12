@@ -1,0 +1,23 @@
+{
+  "name": "imagesearch",
+  "version": "1.0.0",
+  "description": "image search api node js javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "image",
+    "node",
+    "api"
+  ],
+  "author": "Zoran Stanic",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "google-images": "^2.1.0",
+    "mysql": "^2.13.0"
+  }
+}
